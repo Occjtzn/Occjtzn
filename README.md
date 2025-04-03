@@ -5,7 +5,6 @@
 <h4 align="center">I'm a passionate Web Developer with a strong interest in IT systems and modern technologies. I specialize in building intuitive user interfaces using tools like JavaScript, TypeScript, React, HTML5, CSS3, and TailwindCSS.<br><br>On the back-end, I work with Node.js to develop robust and scalable applications, ensuring smooth communication between front-end and server.<br><br>I'm also experienced in project planning, including writing detailed specifications to define clear objectives and coordinate development effectively.<br><br>I'm always curious, always learning, and always aiming to deliver clean, efficient, and user-focused digital experiences.</h4>
 
 ###
-github.com
 <br clear="both">
 
 <div align="center">
