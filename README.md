@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Thibault Courrieu and I'm a Web Developer, from Paris</h1>
+<h1 align="center">Hi 👋! My name is Thibault Courrieu and I'm a Web Developer, from Paris</h1>
 
 ###
 
@@ -68,8 +68,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Occjtzn/Occjtzn/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://imgur.com/a/LGuWVL3"  />
+</div>
 
 ###
