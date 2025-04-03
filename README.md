@@ -12,9 +12,6 @@ github.com
   <a href="https://www.linkedin.com/in/thibaultcourrieu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="70" alt="linkedin logo"  />
   </a>
-  <a href="https://port-folio-pearl-gamma.vercel.app/" target="_blank">
-    <img src="https://imgur.com/a/9tLRYzq" width="82" height="70" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
