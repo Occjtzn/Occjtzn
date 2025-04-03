@@ -67,9 +67,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://imgur.com/a/LGuWVL3"  />
-</div>
-
-###
